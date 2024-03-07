@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.hoje {   
+    color:darkred ; 
+}
+.amanha {
+    color: darkblue ; 
+}
+a{
+    
+    text-decoration: none;
+}
+h1 a {
+    color:seagreen
+}
+p{
+    font-size: 20px;
+}
